@@ -20,4 +20,7 @@ rm -rf BotShare; git clone https://github.com/sintxcs/BotShare; cd BotShare; pyt
 <br>• Using sys.stdout.flush() for the counting, to make it clean.
 <br>• Cookie and token lifespan will depend on Facebook security.
 
+## SnapShot
+![](https://i.imgur.com/uHWIfgN.jpg)
+
 > **Notice**: I will not take any responsibility if the user uses it in any wrongdoing.
