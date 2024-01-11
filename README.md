@@ -23,4 +23,4 @@ rm -rf BotShare; git clone https://github.com/sintxcs/BotShare; cd BotShare; pyt
 ## SnapShot
 ![](https://i.imgur.com/uHWIfgN.jpg)
 
-> **Notice**: I will not take any responsibility if the user uses it in any wrongdoing.
+> **Disclaimer**: For educational purposes only. I won't take any responsibility if any users take advantage of this and exploit it for illicit activities.
